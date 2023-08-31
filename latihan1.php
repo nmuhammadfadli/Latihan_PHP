@@ -7,6 +7,7 @@
 </head>
 <body>
     <h2>Kalkulator Pertambahan Sederhana</h2>
+    <h2>Nur Muhammad Fadli</h2>
     <form method="post" action="">
         Angka 1: <input type="number" name="angka1" required><br>
         Angka 2: <input type="number" name="angka2" required><br>
